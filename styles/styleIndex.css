@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+}
+.fondo{
+    width: 1920px;
+    height: 1080px;
+}
+
+.logoMillonario{
+    position: relative;
+    bottom: 800px;
+    left: 170px;
+}
+
+.logozitro{
+    position: relative;
+    bottom: 780px;
+    left: 270px;
+}
+
+.frutas{
+    position: relative;
+    bottom: 820px;
+    left: 150px;
+}
+
+.logos{
+    position: relative;
+    bottom: 800px;
+    left: 210px;
+}
+
+#tituloSFE{
+    position: relative;
+    bottom: 1557px;
+    left: 800px;
+    color: black;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: #30D87B;
+    width: 1000px;
+    height: 70px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#tablaSFE{
+    position: relative;
+    bottom: 1582px;
+    left: 800px;
+    color: white;
+    font-size: 40px;
+    background-color: #30d87c80;
+    width: 1000px;
+    height: 400px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+#tituloBPlay{
+    position: relative;
+    bottom: 1557px;
+    left: 950px;
+    color: black;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: #30D87B;
+    width: 700px;
+    height: 60px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#tablaBPlay{
+    position: relative;
+    bottom: 1582px;
+    left: 950px;
+    color: white;
+    font-size: 35px;
+    background-color: #30d87c80;
+    width: 700px;
+    height: 400px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+

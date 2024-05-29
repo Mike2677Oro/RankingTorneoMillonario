@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+}
+.fondo{
+    width: 1920px;
+    height: 1080px;
+}
+
+.logos{
+    position: relative;
+    bottom: 900px;
+    left: 650px;
+}
+
+.logoMillonario{
+    position: relative;
+    bottom: 850px;
+    left: 420px;
+}
+
+.Felicitaciones{
+    position: relative;
+    bottom: 980px;
+    left: 640px;
+    font-size: 100px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#winnerName{
+    position: relative;
+    bottom: 950px;
+    left: 570px;
+    border-radius: 50px;
+    font-size: 70px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: transparent;
+    border-color: #CD943F;
+}
+
+
+.ganaste{
+    position: relative;
+    bottom: 930px;
+    left: 800px;
+    font-size: 80px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.mill{
+    position: relative;
+    bottom: 450px;
+    left: 550px;
+}

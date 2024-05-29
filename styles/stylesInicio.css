@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+}
+
+.fondo{
+    width: 1920px;
+    height: 1080px;
+}
+
+.logoTorneoMillonario{
+    position: relative;
+    left: 600px;
+    bottom: 900px;
+}
+.logoZitro{
+    position: relative;
+    left: 800px;
+    bottom: 870px;
+}
+
+.logoFrutas{
+    position: relative;
+    left: 560px;
+    bottom: 930px;
+}
+
+.logoCasino{
+    position: relative;
+    left: 650px;
+    bottom: 930px;
+}

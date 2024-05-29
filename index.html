@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Torneo Millonario</title>
+<link rel="stylesheet" href="/styles/styleIndex.css">
+<link rel="icon" href="./img/LOGO TORNEO MILLONARIO.png">
+</head>
+<body>
+    <div class="fondo">
+        <img src="./img/fondo.png" alt="" width="">
+    </div>
+    <div class="logoMillonario">
+        <img src="./img/LOGO TORNEO MILLONARIO.png" alt="" width="450px">
+    </div>
+    <div class="logozitro">
+        <img src="./img/LOGO ZITRO.png" alt="" width="250px">
+    </div>
+    <div class="frutas">
+        <img src="./img/FRUTAS.png" alt="" width="500px">
+    </div>
+
+    <div class="logos">
+        <img src="./img/logos.png" alt="" width="450px">
+    </div>
+
+    <input type="file" id="fileInput" accept=".txt">
+    <button onclick="cargarParticipantes()">Cargar Participantes</button>
+
+    <h2 id="tituloSFE">Participantes del Casino SFE</h2>
+    <table id="tablaSFE">
+        <thead>
+            <tr>
+                
+                <th>Nombre del jugador</th>
+                <th>Máquina asignada</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Aquí se mostrarán los participantes del Casino SFE -->
+        </tbody>
+    </table>
+
+    <h2 id="tituloBPlay">Participantes de bplay</h2>
+    <table id="tablaBPlay">
+        <thead>
+            <tr>
+                
+                <th>Nombre del jugador</th>
+                <th>Máquina asignada</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Aquí se mostrarán los participantes de bplay -->
+        </tbody>
+    </table>
+
+    <script src="./script.js"></script>
+
+</body>
+</html>
+
